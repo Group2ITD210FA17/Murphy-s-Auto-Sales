@@ -1,0 +1,146 @@
+/* Page Body Styles */
+
+.container {
+   width: auto;
+    margin: auto;
+    font-family: Arial
+    font-size:
+    color: black;
+
+}
+
+
+img{
+background-image: url("images/MSA.jpg");
+background-repeat:no-repeat;
+background-color: rgb(112,173,71);
+float: left;
+width: 200px;
+height: 200px;
+}
+
+.img {
+width: 400px;
+height: 400px;
+
+}
+
+a {
+text-decoration: none;
+}
+
+
+/* Carousel Styles */
+.carousel-example-generic {
+   padding: 50px 0;
+    text-align: left;
+    margin: auto;
+    }
+
+/* Paragraph Styles */
+
+.center {
+    padding: 50px 0;
+    width: 24%;
+    text-align: left;
+    margin: auto;
+}
+
+.center ul{
+list-style-position: inside;
+ border: 5px solid black;
+padding: 50px;
+}
+.center li {
+    width:
+    text-align: left;
+    list-style:
+    text-decoration:
+}
+
+
+h1 {
+text-align: center;
+font-weight: 400;
+font-size: 25px;
+color: black;
+}
+/* Page Header Styles */
+
+.heading {
+background-color: rgb(112,173,71);
+width: 100%;
+text-align: center;
+height: 100%;
+font-family:Postino STD
+border: RGB (47,82,143);
+}
+
+h1 {
+font-size: 50px;
+font-family:Postino STD
+}
+
+h2 {
+color: white;
+font-size: 25px;
+font-family:Postino STD
+}
+
+
+/*Button Styles*/
+
+.btn-group {
+  background: white;.
+  color: black;
+ font-family: Postino STD;
+ text-align: center;
+margin: 50 px;
+display: inline-block;
+   }
+
+.btn btn-default{
+color:black;
+}
+.btn-group:hover {
+color: green;
+}
+
+
+
+/*Footer Styles*/
+
+.flex-container  {
+display: flex;
+margin; auto;
+ height: 80px;
+  background-color: rgb(112,173,71);
+  border: RGB (47,82,143);
+}
+
+.flex-item 1  {
+    background-color: rgb(112,173,71);
+    float: left;
+    width: 500px;
+    height:300px;
+margin: 10px;
+padding: 10 px;
+}
+
+
+.flex-item 2 {
+    background-color: rgb(112,173,71);
+    width:500px;
+    height:100px;
+    margin: 50px;
+
+    }
+
+    .flex-item 3{
+    background-color: rgb(112,173,71);
+    width: 500px;
+    height:300px;
+    margin: 10px;
+}
+
+
